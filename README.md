@@ -1,1 +1,1 @@
-TAMU_CSCE636_Project_2
+TAMU_CSCE636_Deep Learning_Project_2
